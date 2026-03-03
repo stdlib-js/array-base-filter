@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-03)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c1b4d2c`](https://github.com/stdlib-js/stdlib/commit/c1b4d2c8d7097c74e941eb9ebbee8e4f8c6f2b29) - **bench:** refactor to use string interpolation in `array/base/filter` [(#10644)](https://github.com/stdlib-js/stdlib/pull/10644) _(by Rohit R Bhat)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Rohit R Bhat
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)

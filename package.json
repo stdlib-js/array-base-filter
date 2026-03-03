@@ -41,7 +41,7 @@
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
-    "@stdlib/array-base-accessor": "^0.2.2",
+    "@stdlib/array-base-accessor": "^0.2.3",
     "@stdlib/array-base-zero-to": "^0.2.2",
     "@stdlib/array-float64": "^0.2.3",
     "@stdlib/assert-instance-of": "^0.3.1",
@@ -50,6 +50,7 @@
     "@stdlib/assert-is-positive-integer": "^0.2.3",
     "@stdlib/math-base-special-pow": "^0.3.1",
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-nary-function": "^0.2.4",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
