@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-09-04)
+
+<section class="features">
+
+### Features
+
+-   [`1038f59`](https://github.com/stdlib-js/stdlib/commit/1038f593e4cd4b7167f99bc8aee9e5106416b03a) - add float16 dtype support to `array/base/*` [(#14896)](https://github.com/stdlib-js/stdlib/pull/14896)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`1038f59`](https://github.com/stdlib-js/stdlib/commit/1038f593e4cd4b7167f99bc8aee9e5106416b03a) - **feat:** add float16 dtype support to `array/base/*` [(#14896)](https://github.com/stdlib-js/stdlib/pull/14896) _(by Gururaj Gurram, Athan Reines)_
 -   [`c1b4d2c`](https://github.com/stdlib-js/stdlib/commit/c1b4d2c8d7097c74e941eb9ebbee8e4f8c6f2b29) - **bench:** refactor to use string interpolation in `array/base/filter` [(#10644)](https://github.com/stdlib-js/stdlib/pull/10644) _(by Rohit R Bhat)_
 
 </details>
@@ -24,8 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Gururaj Gurram
 -   Rohit R Bhat
 
 </section>
